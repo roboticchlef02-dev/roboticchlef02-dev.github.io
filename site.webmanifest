@@ -1,0 +1,13 @@
+{
+  "name": "unibook",
+  "short_name": "unibook",
+  "description": "Study site for 3rd-year English (Licence, Semester 5) students at the University of Chlef.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f2eee4",
+  "theme_color": "#f2eee4",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

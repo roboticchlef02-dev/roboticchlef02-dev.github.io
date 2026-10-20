@@ -1,0 +1,17 @@
+# unibook
+
+> unibook is a free study site for 3rd-year English (Licence, Semester 5) students at the Department of English, University Hassiba Benbouali of Chlef, Algeria. Lessons are rebuilt as short bites with quizzes and flashcards. Author: Bennafla Ridha.
+
+This file lists every published lesson with a link to its Markdown copy. All lessons in one file: https://roboticchlef02-dev.github.io/llms-full.txt. Lessons are simplified from the teachers' handouts; the teacher is named on each lesson and the handout is the authority.
+
+1 lesson published in 1 module of 10.
+
+## Civilization, Culture and Interculturality
+
+- [Lecture 1: Civilization, Culture and Interculturality](https://roboticchlef02-dev.github.io/civilization/lecture/01-civilization-culture-interculturality.md): How culture, civilization and interculturality differ, and how the United Kingdom took shape from 1707 to 1921.
+
+## Optional
+
+- [All lessons in one file](https://roboticchlef02-dev.github.io/llms-full.txt): the full text of every published lesson
+- [About unibook](https://roboticchlef02-dev.github.io/about/): who made it and how it works
+- [Sitemap](https://roboticchlef02-dev.github.io/sitemap-index.xml)
