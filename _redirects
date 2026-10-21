@@ -1,0 +1,5 @@
+/sitemap.xml /sitemap-index.xml 301
+/:module/lecture /:module/lectures/ 301
+/:module/tutorial /:module/td/ 301
+/:module/tutorials /:module/td/ 301
+/:module/main /:module/ 301

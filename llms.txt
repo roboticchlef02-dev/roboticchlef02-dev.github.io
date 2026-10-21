@@ -4,7 +4,11 @@
 
 This file lists every published lesson with a link to its Markdown copy. All lessons in one file: https://roboticchlef02-dev.github.io/llms-full.txt. Lessons are simplified from the teachers' handouts; the teacher is named on each lesson and the handout is the authority.
 
-1 lesson published in 1 module of 10.
+2 lessons published in 2 modules of 10.
+
+## Linguistics
+
+- [TD 1: An Introduction to Sociolinguistics](https://roboticchlef02-dev.github.io/linguistics/td/01-introduction-to-sociolinguistics.md): What sociolinguistics is, what it reacts against, what it looks at, and how language and society may be related.
 
 ## Civilization, Culture and Interculturality
 

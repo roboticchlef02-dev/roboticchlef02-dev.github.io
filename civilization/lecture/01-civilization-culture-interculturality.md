@@ -26,7 +26,7 @@
 
 *In plain words:* How a group lives together: the values, habits and traditions its members share.
 
-*Teacher's definition, handout, from Latin cultura:*
+*Definition, from Latin cultura:*
 
 > The shared values, practices, traditions, and expressions that define a group of people. It is mainly related
 > to spiritual, intellectual and artistic phenomena.
@@ -41,7 +41,7 @@
 
 *In plain words:* How people build and run their societies: the systems, the technology, the economy.
 
-*Teacher's definition, handout, from Latin civis:*
+*Definition, from Latin civis:*
 
 > Broadly, the development of human societies and their systems (political, economic, etc.). In other words,
 > civilisation refers to material, technical, economic, and social facts.
@@ -51,7 +51,7 @@ describes a process that refers to something which is constantly in motion and i
 
 ## 3. Culture or civilization?
 
-*The two concepts, as the handout separates them*
+*Culture and civilization, side by side*
 
 |                | Culture                                                                                 | Civilization                                                                     |
 | -------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -60,6 +60,9 @@ describes a process that refers to something which is constantly in motion and i
 | Broadly        | The shared values, practices, traditions, and expressions that define a group of people | The development of human societies and their systems (political, economic, etc.) |
 
 **Keep this:** Civilization refers more to material, technical, economic, and social facts; culture refers more to spiritual, intellectual and artistic phenomena.
+
+A way to hold the two apart: culture is what a society believes and creates; civilization is what it builds and
+organizes.
 
 ## 4. Why the two get mixed up
 
@@ -71,7 +74,7 @@ describes a process that refers to something which is constantly in motion and i
 
 **Go deeper: So where is the line?**
 
-The handout says one can draw a more or less distinctive line between civilization and culture: the former
+One can draw a more or less distinctive line between civilization and culture: the former
 refers more to material, technical, economic, and social facts, while the latter refers to spiritual,
 intellectual and artistic phenomena.
 
@@ -81,7 +84,7 @@ intellectual and artistic phenomena.
 
 *In plain words:* Different cultures meeting and exchanging, with each one recognized and respected.
 
-*Teacher's definition, handout:*
+*Definition:*
 
 > The interaction and exchange between different cultures, particularly due to the impact of colonialism,
 > immigration, and globalization, has led to the emergence of multicultural societies. Interculturality, closely
@@ -121,12 +124,12 @@ Despite their union, each state has its own identity and defining features.
 
 **Lecture terms**
 
-- **Culture**: The shared values, practices, traditions, and expressions that define a group of people. (Handout)
-- **Civilization**: Broadly, the development of human societies and their systems (political, economic, etc.). (Handout)
-- **Interculturality**: The mutual exchange of ideas and cultural norms, as well as the development of deep relationships. (Handout)
-- **An 'expansive' concept**: Civilization: a process constantly in motion and constantly moving forward (Norbert Elias). (Handout)
-- **1707**: Under the Act of Union, the formation of Great Britain: England and Wales unified with Scotland. (Handout)
-- **1801**: Under the Act of Union, the formation of the United Kingdom: England, Wales, Scotland, and Ireland. (Handout)
+- **Culture**: The shared values, practices, traditions, and expressions that define a group of people.
+- **Civilization**: Broadly, the development of human societies and their systems (political, economic, etc.).
+- **Interculturality**: The mutual exchange of ideas and cultural norms, as well as the development of deep relationships.
+- **An 'expansive' concept**: Civilization: a process constantly in motion and constantly moving forward (Norbert Elias).
+- **1707**: Under the Act of Union, the formation of Great Britain: England and Wales unified with Scotland.
+- **1801**: Under the Act of Union, the formation of the United Kingdom: England, Wales, Scotland, and Ireland.
 
 ## 8. Check yourself
 
@@ -140,9 +143,9 @@ Despite their union, each state has its own identity and defining features.
 
    **Answer:** A) Culture
 
-   **Why:** The handout says culture refers to spiritual, intellectual and artistic phenomena. (Handout, Lecture 1)
+   **Why:** Culture refers to spiritual, intellectual and artistic phenomena.
 
-2. According to the handout, what does civilization refer to more?
+2. What does civilization refer to more?
 
    - A) Material, technical, economic, and social facts
    - B) Spiritual, intellectual and artistic phenomena
@@ -150,7 +153,7 @@ Despite their union, each state has its own identity and defining features.
 
    **Answer:** A) Material, technical, economic, and social facts
 
-   **Why:** Civilization refers more to material, technical, economic, and social facts. (Handout, Lecture 1)
+   **Why:** Civilization refers more to material, technical, economic, and social facts.
 
 3. Norbert Elias found that civilization is a process that keeps moving forward.
 
@@ -158,15 +161,15 @@ Despite their union, each state has its own identity and defining features.
 
    **Answer:** True
 
-   **Why:** The handout credits Elias with the idea of civilization as something constantly in motion and constantly moving forward. (Handout, Lecture 1)
+   **Why:** Elias found that civilization is a process that is constantly in motion and constantly moving forward.
 
-4. The handout treats culture and civilization as exactly the same notion.
+4. Culture and civilization are exactly the same notion.
 
    True or false?
 
    **Answer:** False
 
-   **Why:** They are interrelated and often mistaken for each other, but one can draw a more or less distinctive line between them. (Handout, Lecture 1)
+   **Why:** They are interrelated and often mistaken for each other, but one can draw a more or less distinctive line between them.
 
 5. What did the Act of Union of 1707 form?
 
@@ -176,21 +179,21 @@ Despite their union, each state has its own identity and defining features.
 
    **Answer:** A) Great Britain
 
-   **Why:** 1707: the formation of Great Britain, with the unification of England and Wales with Scotland. 1801 formed the United Kingdom. (Handout, Lecture 1)
+   **Why:** 1707: the formation of Great Britain, with the unification of England and Wales with Scotland. 1801 formed the United Kingdom.
 
 ## 9. Where the course goes next
 
-The syllabus describes how British civilization evolved over time and how British culture was both shaped by
+The course follows how British civilization evolved over time and how British culture was both shaped by
 internal social forces and by interactions with other cultures.
 
-Its next section is "Contextualizing the Edwardian era: A British Civilization in Transition", which brings in
+The next part is "Contextualizing the Edwardian era: A British Civilization in Transition", which brings in
 the concept of interculturality.
 
 ## References
 
 1. Bentaleb, I. (2026). Lecture 1 [Lecture handout]. University Hassiba Benbouali of Chlef.
-2. UNESCO (2001). Definition of culture. TODO(reference): the handout gives no full title or source for this definition.
-3. Elias, N. (n.d.). TODO(reference): the handout names Elias and his idea of civilization as a process, but not the work.
+2. UNESCO (2001). Definition of culture.
+3. Elias, N. (n.d.).
 
 ## Entities mentioned
 
